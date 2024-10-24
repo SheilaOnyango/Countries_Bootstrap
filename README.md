@@ -32,8 +32,8 @@ A simple countries app that allows users to explore information about countries 
 
 <img src="https://github.com/SheilaOnyango/Countries_Bootstrap/blob/main/src/assets/images/Screenshot3.png?raw=true" alt="Screenshot 3" width="400"/>
 
-<img src="https://github.com/SheilaOnyango/Countries_Bootstrap/blob/main/src/assets/images/screenshot1.png?raw=true" alt="Screenshot 1" width="400"/>
+<img src="https://github.com/SheilaOnyango/Countries_Bootstrap/blob/main/src/assets/images/Screenshot4.png?raw=true" alt="Screenshot 4" width="400"/>
 
-# Acknowledgement:
+# Acknowledgement
 
 Martin Holland; [@martin-holland](https://github.com/martin-holland)
