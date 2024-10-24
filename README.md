@@ -24,6 +24,16 @@ A simple countries app that allows users to explore information about countries 
 3. Setup Firebase - Copy the Firebase configuration and update src/auth/firebase.js.
 4. Start the app- npm run dev
 
+# Screenshots
+
+<img src="https://github.com/SheilaOnyango/Countries_Bootstrap/blob/main/src/assets/images/Screenshot2.png?raw=true" alt="Screenshot 2" width="400"/>
+
+<img src="https://github.com/SheilaOnyango/Countries_Bootstrap/blob/main/src/assets/images/Screenshot.png?raw=true" alt="Screenshot" width="400"/>
+
+<img src="https://github.com/SheilaOnyango/Countries_Bootstrap/blob/main/src/assets/images/Screenshot3.png?raw=true" alt="Screenshot 3" width="400"/>
+
+<img src="https://github.com/SheilaOnyango/Countries_Bootstrap/blob/main/src/assets/images/screenshot1.png?raw=true" alt="Screenshot 1" width="400"/>
+
 # Acknowledgement:
 
 Martin Holland; [@martin-holland](https://github.com/martin-holland)
