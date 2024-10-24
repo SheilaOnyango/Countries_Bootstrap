@@ -4,11 +4,11 @@ A simple countries app that allows users to explore information about countries 
 
 # Features
 
-Home Page
-Countries List
-Favourites
-User Authentication
-Single Country page
+1. Home Page
+2. Countries List
+3. Favourites
+4. User Authentication
+5. Single Country page
 
 # Technologies
 
@@ -23,3 +23,4 @@ APIs: Rest Countries, Firebase Firestore, Pixabay
 2. Install dependencies- npm install
 3. Setup Firebase - Copy the Firebase configuration and update src/auth/firebase.js.
 4. Start the app- npm run dev
+
