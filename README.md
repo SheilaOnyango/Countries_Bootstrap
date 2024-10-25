@@ -2,6 +2,11 @@
 
 A simple countries app that allows users to explore information about countries and manage a list of favourites.
 
+## Live Page
+
+Check out the live page here!: [Countries Bootstrap](https://countriesbootstrap.netlify.app/)
+
+
 # Features
 
 1. Home Page
